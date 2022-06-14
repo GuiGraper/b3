@@ -1,0 +1,9 @@
+.clima-container {
+    background-color: aqua;
+    text-align: center;
+}
+.clima {
+    font-size: 20px;
+    margin: 0;
+    font-weight: bold;
+}
